@@ -1,0 +1,37 @@
+
+body{
+    background-image: linear-gradient(to right,  greenyellow, green   );
+    margin-top: 50px
+}
+
+h1{
+    text-align: center;
+    color : white
+}
+
+.card{
+    position: relative;
+    text-align: center;
+}
+
+.col-md-auto {
+    margin : 20px
+}
+
+#discount{
+    position:absolute;
+    left: -1px;
+    top: -1px;
+    border-radius: 2px;
+    height: auto;
+    padding: 5px 10px;
+    width: auto;
+    background-color: tomato;
+    color: white;
+}
+
+h1{
+    /* font-size: 12px; */
+    text-align: center;
+}
+
